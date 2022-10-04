@@ -1,2 +1,5 @@
 # triangle_quiz
-Created with CodeSandbox
+Consists of quiz on triangles with different categories
+
+# technolgies
+JavaScript
